@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Data Analytics and a post graduate certification in Data Science Engineering. </br>
+🌱 I’m a Data Science Enthusiast with a masters degree in Data Analytics and a post graduate certification in Data Science Engineering. </br>
 👨‍💻  I am passionate about Machine Learning, Data Visualization I enjoy learning new things. </br>
 
 ### My Experiences 🙌
