@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 👨‍💻  I am passionate about Machine Learning, Data Visualization I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Technology Analyst (Infosys)] - (May'18-Aug'21)
-- [Data Scientist Intern (3Analytics)] - (May'18-Aug'21)
+- Technology Analyst (Infosys) - (May'18-Aug'21)
+- Data Scientist Intern (3Analytics) - (Jan'23-Apr'23)
 
 ![Raghul's github stats](https://github-readme-stats.vercel.app/api?username=raghul2008&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Raghul's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=2008&layout=compact&langs_count=8&hide_border=true)
