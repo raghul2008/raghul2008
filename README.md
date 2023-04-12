@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">, I'm [Raghul Sekar!](https://www.linkedin.com/in/raghul-s20/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">, I'm [Raghul Sekar!]([https://www.linkedin.com/in/raghul-s20](https://www.linkedin.com/in/sekarraghul/)/) 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
