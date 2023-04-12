@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">, I'm [Raghul Sekar!](https://www.linkedin.com/in/sekarraghul/)/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">, I'm [Raghul Sekar!](https://www.linkedin.com/in/sekarraghul/)
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://https://www.linkedin.com/in/raghul-s20/">
+<a href="https://www.linkedin.com/in/sekarraghul/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:sekar.r@northeastern.edu">
